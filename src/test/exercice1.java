@@ -2,6 +2,7 @@
 //v2
 public class test {
 	public static void main(String[] args) {
+		//initialisation de n
 		int n = 2;
 		int carre;
 		
