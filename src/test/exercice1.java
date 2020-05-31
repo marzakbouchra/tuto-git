@@ -7,6 +7,7 @@ public class test {
 		//initialisation de carre
 		int carre;
 		
+		//calcule
 		carre = n * n;
 		
 		System.out.println("la valeur =" + carre);
