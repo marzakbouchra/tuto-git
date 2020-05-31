@@ -7,8 +7,15 @@ public class test {
 		//initialisation de carre
 		int carre;
 		
+<<<<<<< HEAD
+<<<<<<< HEAD
 		//calcule
 		carre = n * n
+=======
+=======
+>>>>>>> parent of 97c9608... ajout d'un commentaire 3 calcule
+		carre = n * n;
+>>>>>>> parent of 97c9608... ajout d'un commentaire 3 calcule
 		
 		System.out.println("la valeur =" + carre);
 	}
