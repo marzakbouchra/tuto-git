@@ -8,7 +8,7 @@ public class test {
 		int carre;
 		
 		carre = n * n;
-		
+		//affichage
 		System.out.println("la valeur =" + carre);
 	}
 }
