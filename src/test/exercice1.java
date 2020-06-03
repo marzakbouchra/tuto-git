@@ -10,7 +10,7 @@ public class test {
 		carre = n * n;
 		//affichage
 		System.out.println("la valeur =" + carre);
-		//ajouter d'un message d'affichage
+		//ajouter d'un message d'affichage - V2
 		System.out.println("mon message de test");
 	}
 }
