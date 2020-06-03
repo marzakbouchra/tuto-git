@@ -6,17 +6,11 @@ public class test {
 		int n = 2;
 		//initialisation de carre
 		int carre;
-		
-<<<<<<< HEAD
-<<<<<<< HEAD
 		//calcule
 		carre = n * n
-=======
-=======
->>>>>>> parent of 97c9608... ajout d'un commentaire 3 calcule
-		carre = n * n;
->>>>>>> parent of 97c9608... ajout d'un commentaire 3 calcule
-		
+		//affichage
 		System.out.println("la valeur =" + carre);
+		//ajouter d'un message d'affichage - V2
+		System.out.println("mon message de test");
 	}
 }
